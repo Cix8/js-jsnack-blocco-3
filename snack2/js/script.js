@@ -2,7 +2,7 @@ const numbersArray = [];
 
 const limit = 50;
 
-let sum = numbersArray.length;
+let sum = 0;
 
 let userNumber = 0;
 
